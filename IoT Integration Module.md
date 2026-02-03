@@ -1,4 +1,5 @@
-# Технический документ: IoT Integration Module (IIM) для TAS-платформы
+# IoT Integration Module (IIM) для TAS-платформы
+# Технический документ
 
 **Дата:** 2026-02-03  
 **Версия:** 1.0  
