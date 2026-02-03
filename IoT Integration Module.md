@@ -1,4 +1,4 @@
-# Технический документ: IoT Integration Module (IIM) для TAS-платформы (Kamailio + FreeSWITCH + PostgreSQL)
+# Технический документ: IoT Integration Module (IIM) для TAS-платформы
 
 **Дата:** 2026-02-03  
 **Версия:** 1.0  
