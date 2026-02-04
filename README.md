@@ -1,3 +1,7 @@
+# IoT Integration Module HLD
+IoT Integration Module HLD.md
+IoT Integration Module.md
+
 # IoT Gateway — Prototype TAS IoT Integration Module
 
 Minimal prototype for the IoT integration module of a Telephony Application Server (TAS) platform. Implements two flows: **incoming call → smart speaker notification** and **smoke sensor event → outbound call** via FreeSWITCH.
