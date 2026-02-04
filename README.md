@@ -1,7 +1,7 @@
 # IoT Integration Module HLD
 
-- [IoT Integration Module HLD](IoT Integration Module HLD.md)
-- [IoT Integration Module](IoT Integration Module.md)
+- [IoT Integration Module HLD](/IoT Integration Module HLD.md)
+- [IoT Integration Module](/IoT Integration Module.md)
 
 
 
