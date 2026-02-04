@@ -1,7 +1,10 @@
 # IoT Integration Module HLD
 
-- [IoT Integration Module HLD](/IoT Integration Module HLD.md)
-- [IoT Integration Module](/IoT Integration Module.md)
+Общая архитектура:
+
+[/IoT Integration Module HLD.md)](https://github.com/dpodolski-design/IoT-Gateway/blob/3a588500752b28e320eb5b58c4849c72cbaa1f48/IoT%20Integration%20Module%20HLD.md)
+
+[/IoT Integration Module.md](https://github.com/dpodolski-design/IoT-Gateway/blob/ed73420b3bf4cc49ce19b91acd53bd0b2c43fd8d/IoT%20Integration%20Module.md)
 
 
 
